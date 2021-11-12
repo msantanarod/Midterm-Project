@@ -1,4 +1,4 @@
-# Midterm-Project: Modeling Project-  Real estate modeling project
+# Midterm-Project: Housing market study for Seattle-2014-15
 ### Group name: Mercedes Santana Rodriguez, Shushanik Hakobyan, Niranjan Shrikant Kondo
 #### Objective: To develop a machine learning predictive model to estimate the target variable: housing price based on the dataset('Data_MidTerm_Project_Real_State_Regression.csv') for Seattle,Washington USA provided by Ironhack Academy. Once the model is developed, the data shall be used to solve business questions using descriptive data analysis. 
 
