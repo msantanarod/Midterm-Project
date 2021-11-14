@@ -18,3 +18,10 @@
 #### Methodology: Python and Tableau are the primary tools for the data analysis and visualization. Morever, Trello and Git shall be used for Project planning and management. 
 #### GIT: https://github.com/msantanarod/Midterm-Project
 #### Trello: https://trello.com/b/ucu9cCNA/midterm-project
+
+#### Project Timeline:
+#### 15/11/2021, Monday: Data cleaning and wrangling 
+#### 16/11/2021, Tuesday: Model development and visualization in tableau
+#### 17/11/2021, Wednesday: Powerpoint presentation and tableau dashboard preparation | Model improvement
+#### 18/11/2021, Thursday: Finalizing addditional scope and preparing for the presentation
+#### 19/11/2021, Friday: Presentation 
